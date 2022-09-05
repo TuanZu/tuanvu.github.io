@@ -36,7 +36,7 @@ li > p {
   font-size: 32px;
 }
 #banner-img {
-  background-image: url(\images\banner.jpg);
+  background-image: url();
   background-size: cover;
   height: 35vh;
   background-repeat: no-repeat;
